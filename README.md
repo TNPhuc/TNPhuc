@@ -63,7 +63,4 @@
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<h5 align="center">"Never stop learning and developing yourself. That is the key to surpassing your limits.</h5>
-<br>
-<h5 align="center">-- Tran Nguyen Phuc --</h5>
-<img scr="Quote.png" alt="quote"/>
+<span><img src="Quote.png" alt="phucdev-quote" /></span>
