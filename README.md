@@ -1,5 +1,5 @@
 <span><img src="Banner.PNG" alt="phucdev-banner" /></span>
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h3 align="center">🛠 Technologies and Tools 🛠</h3>
 <br>
 <!-- https://simpleicons.org/ -->
 
@@ -24,7 +24,7 @@
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
+<h3 align="center">👽 Where to find me 👽</h3>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
@@ -44,7 +44,7 @@
 
 <br>
 
-<h2 align="center">📖 PROJECT 📖</h2>
+<h3 align="center">📖 PROJECT 📖</h3>
 <br>
 <p>
   <strong>🛠️ Project STM32: <a href="https://github.com/TNPhuc/STM32_F401RE---HE_THONG_CANH_BAO" target="_blank">THE ALARM SYSTEM USES STM32 NUCLEO F401RE</a></strong>
@@ -52,7 +52,7 @@
   <strong>🛠️ Project Arduino: <a href="https://github.com/TNPhuc/Arduino---Khoa-cua-thong-minh" target="_blank">THE SMART DOOR LOCK SYSTEM USES ARDUINO UNO</a></strong>
   <br>
 </p>
-<h2 align="center">📖 PROJECT 📖</h2>
+<h3 align="center">📖 CONTACT 📖</h3>
 <br>
 <p>
   <strong>📞 Contact me on Facebook: <a href="https://www.facebook.com/profile.php?id=100011416625685" target="_blank">Trần Nguyễn Phúc</a></strong>
@@ -61,6 +61,6 @@
 </p>
 
 <br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<h3 align="center">📑 My Favorites Quote 📑</h3>
 <br>
 <span><img src="Quote.png" alt="phucdev-quote" /></span>
